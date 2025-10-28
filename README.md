@@ -4,7 +4,9 @@ Latihan Mata Kuliah Pemrograman Mobile 2 – Membuat Themed App Menggunakan Flut
 
 ## App Preview
 
-![App Preview](image.jpg)
+<p align="center">
+  <img src="image.jpg" alt="App Preview" width="200"/>
+</p>
 
 ## Features
 
